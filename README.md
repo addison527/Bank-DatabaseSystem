@@ -100,3 +100,7 @@ Addison Man database system for LUBank, a fictional online bank institution. The
 
 ## Sources
 https://stackoverflowcomquestions8138411masking-password-input-from-the-console-java
+
+
+## ER - DESIGN
+![ABM527_ER_DESIGN](https://github.com/[addison527]/[Bank_DatabaseSystem]/blob/[main]/ABM527_ER_DESIGN.pdf?raw=true)
