@@ -1,0 +1,2 @@
+Main-Class: Database
+Class-Path: ojdbc11.jar
