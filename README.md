@@ -103,4 +103,4 @@ https://stackoverflowcomquestions8138411masking-password-input-from-the-console-
 
 
 ## ER - DESIGN
-![ABM527_ER_DESIGN](https://github.com/addison527/Bank_DatabaseSystem/blob/main/ABM527_ER_DESIGN.pdf?raw=true)
+[Download ABM527_ER_DESIGN.pdf](https://github.com/addison527/Bank_DatabaseSystem/blob/main/ABM527_ER_DESIGN.pdf?raw=true)
