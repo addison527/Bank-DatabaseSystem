@@ -12,6 +12,7 @@ The system is designed to interact with a database and provide a user-friendly i
 1. **Create/Reset Schema:**
    - ensure you are connected to `edgar1.cse.lehigh.edu` as user `abm527` or equivalent.
    - open & run `Tables.sql` in sql dev
+   - (or connect to your own database connection)
 
 3. **Clearing Customers:**
    - if you inserted customers multiple times, use `clear_customers.sql` to deletes all customers & linked accounts and commits.:
