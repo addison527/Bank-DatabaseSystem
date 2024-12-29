@@ -4,7 +4,7 @@
 **Lehigh ID:** abm527 
 
 ## LUBANK Overview
-Created a database system for LUBank, a fictional online bank institution. The system manages bank customers with accounts, loans, debit cards, and credit cards. It has 7 interfaces to handle different banking operations such as deposits, withdrawals, purchases, payments, account creation, card creation, and loan management. 
+Created a database system for LUBank, a fictional online bank institution. The system manages bank customers with accounts, loans, debit cards, and credit cards. It has 8 interfaces to handle different banking operations such as deposits, withdrawals, purchases, payments, account creation, card creation, and bank and loan management. 
 
 The system is designed to interact with a database and provide a user-friendly interface for testing the functionalities. Provides meticulous error checking for incorrect input (ie. user withdrawing more than what they have in their account) so the database doesn't break.
 
